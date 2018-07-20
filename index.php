@@ -11,13 +11,13 @@
     <title>Resume - Start Bootstrap Theme</title>
 
     <!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap-theme.min.css" rel="stylesheet">
   
     <!-- Custom fonts for this template -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css">
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -288,10 +288,18 @@
       </section>-->
 
     </div>
-    <footer>
-      <div id="footer text-center text-warning">
+       <footer>
+      <div class="row text-warning col-md" id="footer text-center ">
 
-        <p> &copy; Copyright 2018. Startbootstrap</p>
+        <div class="col-md-4"> &copy; Copyright 2018. Startbootstrap</div>
+		 <div class="col-md-4">Powered by <strong>Witt Technologies</strong></div>
+		  <div class="col-md-4"> 
+		  <div class="col-md-6" title="Nothing is here yet. More updates coming soon.">
+		  Privacy Policy
+		  </div>
+		  <div class="col-md-6" title="Nothing is here yet. More updates coming soon.">
+		  Terms and Conditions
+		  </div>
       </div>
     </footer>
 
