@@ -304,6 +304,7 @@
 		  Terms and Conditions
 		  </div>
       </div>
+	  </div>
     </footer>
 
     <!-- Bootstrap core JavaScript -->
