@@ -82,7 +82,7 @@
           <h1 class="mb-0">TOBI
             <span class="text-primary">SAMUEL</span>
           </h1>
-          <div class="subheading mb-5">IBADAN, ILE-IFE NIGERIA
+          <div class="subheading mb-5">IBADAN, ILE-IFE NIGERIA <br>
             <div style="display:inline;" class="row">
             <p class="fa fa-envelope"> </p>
             <a href="mailto:samueljohn498@email.com">sollysamuel12@gmail.com</a>
