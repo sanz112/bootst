@@ -68,9 +68,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
           </li>
-          <li class="nav-item">
+          <!--<li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
-          </li>
+          </li>-->
         </ul>
       </div>
     </nav>
@@ -112,7 +112,7 @@
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="https://www.github/sanz112">
+              <a href="https://www.github.com/sanz112">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -300,7 +300,7 @@
 
     <section>
        <footer>
-      <div style="font-size: 12px;" class="row text-warning" id="footer text-center ">
+      <div style="font-size: 16px;" class="row text-warning" id="footer text-center ">
 
         <div class="col-md-3"> &copy; Copyright 2018. Startbootstrap</div>
 		 <div class="col-md-3">Powered by <strong>Witt Technologies</strong></div>
