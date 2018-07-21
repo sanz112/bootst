@@ -83,7 +83,8 @@
             <span class="text-primary">SAMUEL</span>
           </h1>
           <div class="subheading mb-5">IBADAN, ILE-IFE NIGERIA
-            <a href="mailto:name@email.com">sollysamuel12@gmail.com</a>
+            <p class="fa fa-envelope"> </p>
+            <a href="mailto:samueljohn498@email.com">sollysamuel12@gmail.com</a>
           </div>
           <p class="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
           <ul class="list-inline list-social-icons mb-0">
